@@ -1,0 +1,2502 @@
+[
+    {
+        "company": "Walmart",
+        "url": "https://fortune.com/company/walmart/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Amazon",
+        "url": "https://fortune.com/company/amazon-com/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "State Grid",
+        "url": "https://fortune.com/company/state-grid/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Saudi Aramco",
+        "url": "https://fortune.com/company/saudi-aramco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sinopec Group",
+        "url": "https://fortune.com/company/sinopec-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China National Petroleum",
+        "url": "https://fortune.com/company/china-national-petroleum/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Apple",
+        "url": "https://fortune.com/company/apple/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "UnitedHealth Group",
+        "url": "https://fortune.com/company/unitedhealth-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Berkshire Hathaway",
+        "url": "https://fortune.com/company/berkshire-hathaway/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CVS Health",
+        "url": "https://fortune.com/company/cvs-health/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Volkswagen",
+        "url": "https://fortune.com/company/volkswagen/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Exxon Mobil",
+        "url": "https://fortune.com/company/exxon-mobil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shell",
+        "url": "https://fortune.com/company/royal-dutch-shell/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China State Construction Engineering",
+        "url": "https://fortune.com/company/china-state-construction-engineering/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Toyota Motor",
+        "url": "https://fortune.com/company/toyota-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "McKesson",
+        "url": "https://fortune.com/company/mckesson/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Alphabet",
+        "url": "https://fortune.com/company/alphabet/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Cencora",
+        "url": "https://fortune.com/company/amerisourcebergen/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Trafigura Group",
+        "url": "https://fortune.com/company/trafigura-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Costco Wholesale",
+        "url": "https://fortune.com/company/costco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "JPMorgan Chase",
+        "url": "https://fortune.com/company/jpmorgan-chase/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Industrial & Commercial Bank of China",
+        "url": "https://fortune.com/company/industrial-commercial-bank-of-china/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "TotalEnergies",
+        "url": "https://fortune.com/company/total/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Glencore",
+        "url": "https://fortune.com/company/glencore/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "BP",
+        "url": "https://fortune.com/company/bp/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Microsoft",
+        "url": "https://fortune.com/company/microsoft/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Cardinal Health",
+        "url": "https://fortune.com/company/cardinal-health/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Stellantis",
+        "url": "https://fortune.com/company/stellantis/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Chevron",
+        "url": "https://fortune.com/company/chevron/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Construction Bank",
+        "url": "https://fortune.com/company/china-construction-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Samsung Electronics",
+        "url": "https://fortune.com/company/samsung-electronics/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hon Hai Precision Industry",
+        "url": "https://fortune.com/company/hon-hai-precision-industry/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Cigna",
+        "url": "https://fortune.com/company/cigna/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Agricultural Bank of China",
+        "url": "https://fortune.com/company/agricultural-bank-of-china/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Railway Engineering Group",
+        "url": "https://fortune.com/company/china-railway-engineering/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Ford Motor",
+        "url": "https://fortune.com/company/ford-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bank of China",
+        "url": "https://fortune.com/company/bank-of-china/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bank of America",
+        "url": "https://fortune.com/company/bank-of-america-corp/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "General Motors",
+        "url": "https://fortune.com/company/general-motors/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Elevance Health",
+        "url": "https://fortune.com/company/elevance-health/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "BMW Group",
+        "url": "https://fortune.com/company/bmw-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mercedes-Benz Group",
+        "url": "https://fortune.com/company/daimler/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Railway Construction",
+        "url": "https://fortune.com/company/china-railway-construction/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Baowu Steel Group",
+        "url": "https://fortune.com/company/china-baowu-steel-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Citigroup",
+        "url": "https://fortune.com/company/citigroup/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Centene",
+        "url": "https://fortune.com/company/centene/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "JD.com",
+        "url": "https://fortune.com/company/jd-com/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Home Depot",
+        "url": "https://fortune.com/company/home-depot/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Electricité de France",
+        "url": "https://fortune.com/company/electricite-de-france/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Marathon Petroleum",
+        "url": "https://fortune.com/company/marathon-petroleum/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Kroger",
+        "url": "https://fortune.com/company/kroger/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Phillips 66",
+        "url": "https://fortune.com/company/phillips/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Ping An Insurance",
+        "url": "https://fortune.com/company/ping-an-insurance/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sinochem Holdings",
+        "url": "https://fortune.com/company/sinochem-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Mobile Communications",
+        "url": "https://fortune.com/company/china-mobile-communications/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China National Offshore Oil",
+        "url": "https://fortune.com/company/china-national-offshore-oil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Honda Motor",
+        "url": "https://fortune.com/company/honda-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Fannie Mae",
+        "url": "https://fortune.com/company/fannie-mae/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Life Insurance",
+        "url": "https://fortune.com/company/china-life-insurance/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Walgreens Boots Alliance",
+        "url": "https://fortune.com/company/walgreens-boots-alliance/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Valero Energy",
+        "url": "https://fortune.com/company/valero-energy/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Banco Santander",
+        "url": "https://fortune.com/company/banco-santander/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Communications Construction",
+        "url": "https://fortune.com/company/china-communications-construction/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "BNP Paribas",
+        "url": "https://fortune.com/company/bnp-paribas/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mitsubishi",
+        "url": "https://fortune.com/company/mitsubishi/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Meta Platforms",
+        "url": "https://fortune.com/company/facebook/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "HSBC Holdings",
+        "url": "https://fortune.com/company/hsbc-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Verizon Communications",
+        "url": "https://fortune.com/company/verizon/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Minmetals",
+        "url": "https://fortune.com/company/china-minmetals/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Alibaba Group",
+        "url": "https://fortune.com/company/alibaba-group-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CITIC Group",
+        "url": "https://fortune.com/company/citic-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Resources",
+        "url": "https://fortune.com/company/china-resources-national/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hyundai Motor",
+        "url": "https://fortune.com/company/hyundai-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "AT&T",
+        "url": "https://fortune.com/company/att/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shandong Energy Group",
+        "url": "https://fortune.com/company/yankuang-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Comcast",
+        "url": "https://fortune.com/company/comcast/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Deutsche Telekom",
+        "url": "https://fortune.com/company/deutsche-telekom/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Southern Power Grid",
+        "url": "https://fortune.com/company/china-southern-power-grid/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Uniper",
+        "url": "https://fortune.com/company/uniper/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Wells Fargo",
+        "url": "https://fortune.com/company/wells-fargo/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hengli Group",
+        "url": "https://fortune.com/company/hengli-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Allianz",
+        "url": "https://fortune.com/company/allianz/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Post Group",
+        "url": "https://fortune.com/company/china-post-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Energy Investment",
+        "url": "https://fortune.com/company/shenhua-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Xiamen C&D",
+        "url": "https://fortune.com/company/xiamen-cd/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Reliance Industries",
+        "url": "https://fortune.com/company/reliance-industries/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Goldman Sachs Group",
+        "url": "https://fortune.com/company/goldman-sachs-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Freddie Mac",
+        "url": "https://fortune.com/company/freddie-mac/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Rosneft Oil",
+        "url": "https://fortune.com/company/rosneft-oil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Target",
+        "url": "https://fortune.com/company/target/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Equinor",
+        "url": "https://fortune.com/company/statoil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Humana",
+        "url": "https://fortune.com/company/humana/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "SAIC Motor",
+        "url": "https://fortune.com/company/saic-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "State Farm Insurance",
+        "url": "https://fortune.com/company/state-farm-insurance-cos/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Life Insurance Corp. of India",
+        "url": "https://fortune.com/company/life-insurance-corp-of-india/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nestlé",
+        "url": "https://fortune.com/company/nestle/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Enel",
+        "url": "https://fortune.com/company/enel/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ENI",
+        "url": "https://fortune.com/company/eni-2/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Petrobras",
+        "url": "https://fortune.com/company/petrobras/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "SK",
+        "url": "https://fortune.com/company/sk-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "E.ON",
+        "url": "https://fortune.com/company/e-on-2/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Gazprom",
+        "url": "https://fortune.com/company/gazprom/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Huawei Investment & Holding",
+        "url": "https://fortune.com/company/huawei-investment-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Société Générale",
+        "url": "https://fortune.com/company/societe-generale/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bosch Group",
+        "url": "https://fortune.com/company/robert-bosch/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "COFCO",
+        "url": "https://fortune.com/company/cofco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Itochu",
+        "url": "https://fortune.com/company/itochu/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "PowerChina",
+        "url": "https://fortune.com/company/powerchina/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Pemex",
+        "url": "https://fortune.com/company/pemex/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tesla",
+        "url": "https://fortune.com/company/tesla/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Morgan Stanley",
+        "url": "https://fortune.com/company/morgan-stanley/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sinopharm",
+        "url": "https://fortune.com/company/sinopharm/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Brookfield",
+        "url": "https://fortune.com/company/brookfield-asset-management/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Royal Ahold Delhaize",
+        "url": "https://fortune.com/company/royal-ahold-delhaize/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Johnson & Johnson",
+        "url": "https://fortune.com/company/johnson-johnson/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Indian Oil",
+        "url": "https://fortune.com/company/indian-oil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Archer Daniels Midland",
+        "url": "https://fortune.com/company/archer-daniels-midland/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Crédit Agricole",
+        "url": "https://fortune.com/company/credit-agricole/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Christian Dior",
+        "url": "https://fortune.com/company/christian-dior/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nippon Telegraph and Telephone",
+        "url": "https://fortune.com/company/nippon-telegraph-telephone/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mitsui",
+        "url": "https://fortune.com/company/mitsui/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Carrefour",
+        "url": "https://fortune.com/company/carrefour/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "PepsiCo",
+        "url": "https://fortune.com/company/pepsico/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "United Parcel Service",
+        "url": "https://fortune.com/company/ups/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "PTT",
+        "url": "https://fortune.com/company/ptt/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "AXA",
+        "url": "https://fortune.com/company/axa/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "FedEx",
+        "url": "https://fortune.com/company/fedex/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sony",
+        "url": "https://fortune.com/company/sony/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China FAW Group",
+        "url": "https://fortune.com/company/china-faw-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Engie",
+        "url": "https://fortune.com/company/engie/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Walt Disney",
+        "url": "https://fortune.com/company/disney/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Orlen",
+        "url": "https://fortune.com/company/pkn-orlen-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Dell Technologies",
+        "url": "https://fortune.com/company/dell-technologies/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "DHL Group",
+        "url": "https://fortune.com/company/deutsche-post-dhl-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Telecommunications",
+        "url": "https://fortune.com/company/china-telecommunications/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nissan Motor",
+        "url": "https://fortune.com/company/nissan-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Royal Bank of Canada",
+        "url": "https://fortune.com/company/royal-bank-of-canada/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Zhejiang Rongsheng Holding Group",
+        "url": "https://fortune.com/company/zhejiang-rongsheng-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Lowe's",
+        "url": "https://fortune.com/company/lowes/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tesco",
+        "url": "https://fortune.com/company/tesco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tencent Holdings",
+        "url": "https://fortune.com/company/tencent-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Xiamen ITG Holding Group",
+        "url": "https://fortune.com/company/xiamen-itg-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "BYD",
+        "url": "https://fortune.com/company/byd/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nippon Life Insurance",
+        "url": "https://fortune.com/company/nippon-life-insurance/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Siemens",
+        "url": "https://fortune.com/company/siemens/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Japan Post Holdings",
+        "url": "https://fortune.com/company/japan-post-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Aviation Industry Corp. of China",
+        "url": "https://fortune.com/company/aviation-industry-corp-of-china/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mitsubishi UFJ Financial Group",
+        "url": "https://fortune.com/company/mitsubishi-ufj-financial-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Procter & Gamble",
+        "url": "https://fortune.com/company/procter-gamble/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Wuchan Zhongda Group",
+        "url": "https://fortune.com/company/wuchan-zhongda-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Seven & I Holdings",
+        "url": "https://fortune.com/company/seven-i-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Albertsons",
+        "url": "https://fortune.com/company/albertsons-cos/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ENEOS Holdings",
+        "url": "https://fortune.com/company/jxtg-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bank of Communications",
+        "url": "https://fortune.com/company/bank-of-communications/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Energy Transfer",
+        "url": "https://fortune.com/company/energy-transfer-equity/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "U.S. Postal Service",
+        "url": "https://fortune.com/company/u-s-postal-service/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jiangxi Copper",
+        "url": "https://fortune.com/company/jiangxi-copper/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "People's Insurance Co. of China",
+        "url": "https://fortune.com/company/peoples-insurance-co-of-china/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Boeing",
+        "url": "https://fortune.com/company/boeing/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China North Industries Group",
+        "url": "https://fortune.com/company/china-north-industries-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Pacific Construction Group",
+        "url": "https://fortune.com/company/pacific-construction-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Kia",
+        "url": "https://fortune.com/company/kia-motors/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sysco",
+        "url": "https://fortune.com/company/sysco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Dai-ichi Life Holdings",
+        "url": "https://fortune.com/company/dai-ichi-life-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Pertamina",
+        "url": "https://fortune.com/company/pertamina/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Vinci",
+        "url": "https://fortune.com/company/vinci/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Petronas",
+        "url": "https://fortune.com/company/petronas/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Toronto-Dominion Bank",
+        "url": "https://fortune.com/company/toronto-dominion-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Lukoil",
+        "url": "https://fortune.com/company/lukoil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shaanxi Coal & Chemical Industry",
+        "url": "https://fortune.com/company/shaanxi-coal-chemical-industry/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shenghong Holding Group",
+        "url": "https://fortune.com/company/shenghong-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "BASF",
+        "url": "https://fortune.com/company/basf/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Poly Group",
+        "url": "https://fortune.com/company/china-poly-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Groupe BPCE",
+        "url": "https://fortune.com/company/groupe-bpce/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shandong Weiqiao Pioneering Group",
+        "url": "https://fortune.com/company/shandong-weiqiao-pioneering-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "JBS",
+        "url": "https://fortune.com/company/jbs/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Alimentation Couche-Tard",
+        "url": "https://fortune.com/company/alimentation-couche-tard/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "State Bank of India",
+        "url": "https://fortune.com/company/state-bank-of-india/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Merchants Bank",
+        "url": "https://fortune.com/company/china-merchants-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Oil & Natural Gas",
+        "url": "https://fortune.com/company/oil-natural-gas/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Guangzhou Automobile Industry Group",
+        "url": "https://fortune.com/company/guangzhou-automobile-industry-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "UBS Group",
+        "url": "https://fortune.com/company/ubs-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Airbus",
+        "url": "https://fortune.com/company/airbus-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Toyota Tsusho",
+        "url": "https://fortune.com/company/toyota-tsusho/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Zhejiang Geely Holding Group",
+        "url": "https://fortune.com/company/zhejiang-geely-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Taiwan Semiconductor Manufacturing",
+        "url": "https://fortune.com/company/taiwan-semiconductor-manufacturing/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "XMXYG",
+        "url": "https://fortune.com/company/xiamen-xiangyu-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "RTX",
+        "url": "https://fortune.com/company/raytheon-technologies/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Itau Unibanco Holding",
+        "url": "https://fortune.com/company/itau-unibanco-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ArcelorMittal",
+        "url": "https://fortune.com/company/arcelormittal/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "General Electric",
+        "url": "https://fortune.com/company/general-electric/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Beijing Automotive Group",
+        "url": "https://fortune.com/company/beijing-automotive-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Lockheed Martin",
+        "url": "https://fortune.com/company/lockheed-martin/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Koç Holding",
+        "url": "https://fortune.com/company/koc-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "American Express",
+        "url": "https://fortune.com/company/american-express/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hitachi",
+        "url": "https://fortune.com/company/hitachi/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Roche Group",
+        "url": "https://fortune.com/company/roche-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Wilmar International",
+        "url": "https://fortune.com/company/wilmar-international/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Caterpillar",
+        "url": "https://fortune.com/company/caterpillar/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Banco Bilbao Vizcaya Argentaria",
+        "url": "https://fortune.com/company/banco-bilbao-vizcaya-argentaria/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Korea Electric Power",
+        "url": "https://fortune.com/company/korea-electric-power/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "MetLife",
+        "url": "https://fortune.com/company/metlife/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "AEON",
+        "url": "https://fortune.com/company/aeon/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Lloyds Banking Group",
+        "url": "https://fortune.com/company/lloyds-banking-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Deutsche Bank",
+        "url": "https://fortune.com/company/deutsche-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Vanke",
+        "url": "https://fortune.com/company/china-vanke/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "HCA Healthcare",
+        "url": "https://fortune.com/company/hca-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sumitomo Mitsui Financial Group",
+        "url": "https://fortune.com/company/sumitomo-mitsui-financial-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "LG Electronics",
+        "url": "https://fortune.com/company/lg-electronics/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Unilever",
+        "url": "https://fortune.com/company/unilever/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Accenture",
+        "url": "https://fortune.com/company/accenture/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Barclays",
+        "url": "https://fortune.com/company/barclays/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jinneng Holding Group",
+        "url": "https://fortune.com/company/datong-coal-mine-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Aluminum Corp. of China",
+        "url": "https://fortune.com/company/aluminum-corp-of-china/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Munich Re Group",
+        "url": "https://fortune.com/company/munich-re-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sberbank",
+        "url": "https://fortune.com/company/sberbank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Banco do Brasil",
+        "url": "https://fortune.com/company/banco-do-brasil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "The Progressive Corporation",
+        "url": "https://fortune.com/company/progressive/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "IBM",
+        "url": "https://fortune.com/company/ibm/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nippon Steel Corporation",
+        "url": "https://fortune.com/company/nippon-steel-sumitomo-metal/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Deere",
+        "url": "https://fortune.com/company/deere/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nvidia",
+        "url": "https://fortune.com/company/nvidia/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "StoneX Group",
+        "url": "https://fortune.com/company/stonex-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Zurich Insurance Group",
+        "url": "https://fortune.com/company/zurich-insurance-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bouygues",
+        "url": "https://fortune.com/company/bouygues/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mizuho Financial Group",
+        "url": "https://fortune.com/company/mizuho-financial-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Daimler Truck Holding",
+        "url": "https://fortune.com/company/daimler-truck-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ING Group",
+        "url": "https://fortune.com/company/ing-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Merck",
+        "url": "https://fortune.com/company/merck/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bunge",
+        "url": "https://fortune.com/company/bunge/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Anheuser-Busch InBev",
+        "url": "https://fortune.com/company/anheuser-busch-inbev/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Industrial Bank",
+        "url": "https://fortune.com/company/industrial-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "POSCO Holdings",
+        "url": "https://fortune.com/company/posco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Panasonic Holdings",
+        "url": "https://fortune.com/company/panasonic/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ConocoPhillips",
+        "url": "https://fortune.com/company/conocophillips/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Pfizer",
+        "url": "https://fortune.com/company/pfizer/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Delta Air Lines",
+        "url": "https://fortune.com/company/delta-air-lines/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Huaneng Group",
+        "url": "https://fortune.com/company/china-huaneng-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Energy Engineering Group",
+        "url": "https://fortune.com/company/china-energy-engineering-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Dongfeng Motor",
+        "url": "https://fortune.com/company/dongfeng-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "TD Synnex",
+        "url": "https://fortune.com/company/synnex/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Publix Super Markets",
+        "url": "https://fortune.com/company/publix-super-markets/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Zhejiang Hengyi Group",
+        "url": "https://fortune.com/company/zhejiang-hengyi-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Allstate",
+        "url": "https://fortune.com/company/allstate/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Assicurazioni Generali",
+        "url": "https://fortune.com/company/assicurazioni-generali/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Cisco Systems",
+        "url": "https://fortune.com/company/cisco-systems-inc/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Repsol",
+        "url": "https://fortune.com/company/repsol/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Lenovo Group",
+        "url": "https://fortune.com/company/lenovo-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "HBIS Group",
+        "url": "https://fortune.com/company/hbis-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Contemporary Amperex Technology",
+        "url": "https://fortune.com/company/contemporary-amperex-technology/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Renault",
+        "url": "https://fortune.com/company/renault/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Banco Bradesco",
+        "url": "https://fortune.com/company/banco-bradesco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Electronics Technology Group",
+        "url": "https://fortune.com/company/china-electronics-technology-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nationwide",
+        "url": "https://fortune.com/company/nationwide/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Charter Communications",
+        "url": "https://fortune.com/company/charter-communications/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "State Power Investment",
+        "url": "https://fortune.com/company/state-power-investment/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Edeka Zentrale",
+        "url": "https://fortune.com/company/edeka-zentrale/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bharat Petroleum",
+        "url": "https://fortune.com/company/bharat-petroleum/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "AbbVie",
+        "url": "https://fortune.com/company/abbvie/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "New York Life Insurance",
+        "url": "https://fortune.com/company/new-york-life-insurance/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Intel",
+        "url": "https://fortune.com/company/intel/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "TJX",
+        "url": "https://fortune.com/company/tjx/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Novartis",
+        "url": "https://fortune.com/company/novartis/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Rio Tinto Group",
+        "url": "https://fortune.com/company/rio-tinto-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tsingshan Holding Group",
+        "url": "https://fortune.com/company/tsingshan-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Prudential Financial",
+        "url": "https://fortune.com/company/prudential-financial/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "COSCO Shipping",
+        "url": "https://fortune.com/company/china-cosco-shipping/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "BHP Group",
+        "url": "https://fortune.com/company/bhp-billiton/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "HP",
+        "url": "https://fortune.com/company/hp/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "United Airlines Holdings",
+        "url": "https://fortune.com/company/united-continental-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tata Motors",
+        "url": "https://fortune.com/company/tata-motors/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Performance Food Group",
+        "url": "https://fortune.com/company/performance-food-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Iberdrola",
+        "url": "https://fortune.com/company/iberdrola/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Deutsche Bahn",
+        "url": "https://fortune.com/company/deutsche-bahn/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Idemitsu Kosan",
+        "url": "https://fortune.com/company/idemitsu-kosan/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tyson Foods",
+        "url": "https://fortune.com/company/tyson-foods/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Midea Group",
+        "url": "https://fortune.com/company/midea-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "American Airlines Group",
+        "url": "https://fortune.com/company/american-airlines-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China United Network Communications",
+        "url": "https://fortune.com/company/china-united-network-communications/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Liberty Mutual Insurance Group",
+        "url": "https://fortune.com/company/liberty-mutual-insurance-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bank of Nova Scotia",
+        "url": "https://fortune.com/company/bank-of-nova-scotia/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Volvo",
+        "url": "https://fortune.com/company/volvo/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Intesa Sanpaolo",
+        "url": "https://fortune.com/company/intesa-sanpaolo/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Saint-Gobain",
+        "url": "https://fortune.com/company/saint-gobain/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shaanxi Yanchang Petroleum (Group)",
+        "url": "https://fortune.com/company/shaanxi-yanchang-petroleum-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bayer",
+        "url": "https://fortune.com/company/bayer/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tokio Marine Holdings",
+        "url": "https://fortune.com/company/tokio-marine-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nike",
+        "url": "https://fortune.com/company/nike/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Maersk Group",
+        "url": "https://fortune.com/company/maersk-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Phoenix Pharma",
+        "url": "https://fortune.com/company/phoenix-pharmahandel/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Greenland Holding Group",
+        "url": "https://fortune.com/company/greenland-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shanghai Pudong Development Bank",
+        "url": "https://fortune.com/company/shanghai-pudong-development-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Louis Dreyfus",
+        "url": "https://fortune.com/company/louis-dreyfus/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bank of Montreal",
+        "url": "https://fortune.com/company/bank-of-montreal/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ZF Friedrichshafen",
+        "url": "https://fortune.com/company/zf-friedrichshafen/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "KB Financial Group",
+        "url": "https://fortune.com/company/kb-financial-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://fortune.com/company/sanofi/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Marubeni",
+        "url": "https://fortune.com/company/marubeni/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Oracle",
+        "url": "https://fortune.com/company/oracle/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jinchuan Group",
+        "url": "https://fortune.com/company/jinchuan-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Swiss Re",
+        "url": "https://fortune.com/company/swiss-re/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Chubb",
+        "url": "https://fortune.com/company/chubb/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Enterprise Products Partners",
+        "url": "https://fortune.com/company/enterprise-products-partners/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Capital One Financial",
+        "url": "https://fortune.com/company/capital-one-financial/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Denso",
+        "url": "https://fortune.com/company/denso/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "HDFC Bank",
+        "url": "https://fortune.com/company/hdfc-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China National Building Material Group",
+        "url": "https://fortune.com/company/china-national-building-material-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Veolia Environnement",
+        "url": "https://fortune.com/company/veolia-environnement/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China State Shipbuilding",
+        "url": "https://fortune.com/company/china-state-shipbuilding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Vodafone Group",
+        "url": "https://fortune.com/company/vodafone-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Plains GP Holdings",
+        "url": "https://fortune.com/company/plains-gp-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Landesbank Baden-Württemberg",
+        "url": "https://fortune.com/company/landesbank-baden-wurttemberg/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "EXOR Group",
+        "url": "https://fortune.com/company/exor-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jingye Group",
+        "url": "https://fortune.com/company/jingye-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "UniCredit Group",
+        "url": "https://fortune.com/company/unicredit-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Energie Baden-Württemberg",
+        "url": "https://fortune.com/company/energie-baden-wurttemberg/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tokyo Electric Power",
+        "url": "https://fortune.com/company/tokyo-electric-power/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sumitomo",
+        "url": "https://fortune.com/company/sumitomo/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "World Kinect",
+        "url": "https://fortune.com/company/world-fuel-services/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Orange",
+        "url": "https://fortune.com/company/orange/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "HD Hyundai",
+        "url": "https://fortune.com/company/hd-hyundai/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Ingka Group",
+        "url": "https://fortune.com/company/ingka-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ANZ Group Holdings",
+        "url": "https://fortune.com/company/australia-new-zealand-banking-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "AIG",
+        "url": "https://fortune.com/company/aig/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "SoftBank Group",
+        "url": "https://fortune.com/company/softbank-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sinomach",
+        "url": "https://fortune.com/company/sinomach/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Talanx",
+        "url": "https://fortune.com/company/talanx/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "America Movil",
+        "url": "https://fortune.com/company/america-movil/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "AstraZeneca",
+        "url": "https://fortune.com/company/astrazeneca/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Zhejiang Communications Investment Group",
+        "url": "https://fortune.com/company/zhejiang-communications-investment-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Pacific Insurance (Group)",
+        "url": "https://fortune.com/company/china-pacific-insurance-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Coca-Cola",
+        "url": "https://fortune.com/company/coca-cola/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "TIAA",
+        "url": "https://fortune.com/company/tiaa/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Caixa Economica Federal",
+        "url": "https://fortune.com/company/caixa-economica-federal/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CHS",
+        "url": "https://fortune.com/company/chs/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Huadian",
+        "url": "https://fortune.com/company/china-huadian/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Crédit Mutuel Group",
+        "url": "https://fortune.com/company/credit-mutuel-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "MS&AD Insurance Group Holdings",
+        "url": "https://fortune.com/company/msad-insurance-group-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hyundai Mobis",
+        "url": "https://fortune.com/company/hyundai-mobis/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Susun Construction Group",
+        "url": "https://fortune.com/company/susun-construction-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "SNCF Group",
+        "url": "https://fortune.com/company/sncf-mobilites/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bristol-Myers Squibb",
+        "url": "https://fortune.com/company/bristol-myers-squibb/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China South Industries Group",
+        "url": "https://fortune.com/company/china-south-industries-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Continental",
+        "url": "https://fortune.com/company/continental/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Raizen",
+        "url": "https://fortune.com/company/raizen/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Dow",
+        "url": "https://fortune.com/company/dow/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "George Weston",
+        "url": "https://fortune.com/company/george-weston/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "L'Oréal",
+        "url": "https://fortune.com/company/loreal/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Fomento Economico Mexicano",
+        "url": "https://fortune.com/company/fomento-economico-mexicano/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Telefónica",
+        "url": "https://fortune.com/company/telefonica/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Minsheng Banking",
+        "url": "https://fortune.com/company/china-minsheng-banking/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Best Buy",
+        "url": "https://fortune.com/company/best-buy/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Woolworths Group",
+        "url": "https://fortune.com/company/woolworths/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shanghai Construction Group",
+        "url": "https://fortune.com/company/shanghai-construction-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "LG Chem",
+        "url": "https://fortune.com/company/lg-chem/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Thermo Fisher Scientific",
+        "url": "https://fortune.com/company/thermo-fisher-scientific/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Magna International",
+        "url": "https://fortune.com/company/magna-international/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "OMV Group",
+        "url": "https://fortune.com/company/omv-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Massachusetts Mutual Life Insurance",
+        "url": "https://fortune.com/company/massachusetts-mutual-life-insurance/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "USAA",
+        "url": "https://fortune.com/company/usaa/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Guangzhou Municipal Construction Group",
+        "url": "https://fortune.com/company/guangzhou-municipal-construction-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "General Dynamics",
+        "url": "https://fortune.com/company/general-dynamics/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Vale",
+        "url": "https://fortune.com/company/vale/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Zijin Mining Group",
+        "url": "https://fortune.com/company/zijin-mining-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Travelers",
+        "url": "https://fortune.com/company/travelers-cos/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Warner Bros. Discovery",
+        "url": "https://fortune.com/company/discovery/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Canadian Imperial Bank of Commerce",
+        "url": "https://fortune.com/company/canadian-imperial-bank-of-commerce/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "LyondellBasell Industries",
+        "url": "https://fortune.com/company/lyondellbasell-industries/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "J. Sainsbury",
+        "url": "https://fortune.com/company/j-sainsbury/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shenzhen Investment Holdings",
+        "url": "https://fortune.com/company/shenzhen-investment-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Ansteel Group",
+        "url": "https://fortune.com/company/ansteel-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hanwha",
+        "url": "https://fortune.com/company/hanwha/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "U.S. Bancorp",
+        "url": "https://fortune.com/company/u-s-bancorp/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Lufthansa Group",
+        "url": "https://fortune.com/company/lufthansa-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Pegatron",
+        "url": "https://fortune.com/company/pegatron/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://fortune.com/company/abbott-laboratories/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ThyssenKrupp",
+        "url": "https://fortune.com/company/thyssenkrupp/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "New Hope Holding Group",
+        "url": "https://fortune.com/company/new-hope-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "KDDI",
+        "url": "https://fortune.com/company/kddi/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China National Nuclear",
+        "url": "https://fortune.com/company/china-national-nuclear/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Taikang Insurance Group",
+        "url": "https://fortune.com/company/taikang-insurance-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Northrop Grumman",
+        "url": "https://fortune.com/company/northrop-grumman/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jiangsu Shagang Group",
+        "url": "https://fortune.com/company/jiangsu-shagang-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Meituan",
+        "url": "https://fortune.com/company/meituan/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Chery Holding Group",
+        "url": "https://fortune.com/company/chery-holding-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Inditex",
+        "url": "https://fortune.com/company/inditex/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Schneider Electric",
+        "url": "https://fortune.com/company/schneider-electric/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Northwestern Mutual",
+        "url": "https://fortune.com/company/northwestern-mutual/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Dollar General",
+        "url": "https://fortune.com/company/dollar-general/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Cenovus Energy",
+        "url": "https://fortune.com/company/cenovus-energy/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ACS",
+        "url": "https://fortune.com/company/acs/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Coop Group",
+        "url": "https://fortune.com/company/coop-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Fairfax Financial Holdings",
+        "url": "https://fortune.com/company/fairfax-financial-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Guangzhou Industrial Investment Holdings",
+        "url": "https://fortune.com/company/guangzhou-industrial-investment-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "PBF Energy",
+        "url": "https://fortune.com/company/pbf-energy/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Standard Chartered",
+        "url": "https://fortune.com/company/standard-chartered/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Xiaomi",
+        "url": "https://fortune.com/company/xiaomi/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Compass Group",
+        "url": "https://fortune.com/company/compass-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Meiji Yasuda Life Insurance",
+        "url": "https://fortune.com/company/meiji-yasuda-life-insurance/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "GSK",
+        "url": "https://fortune.com/company/glaxosmithkline/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Suncor Energy",
+        "url": "https://fortune.com/company/suncor-energy/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hangzhou Industrial Investment Group",
+        "url": "https://fortune.com/company/hangzhou-industrial-investment-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Uber Technologies",
+        "url": "https://fortune.com/company/uber-technologies/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "DZ Bank",
+        "url": "https://fortune.com/company/dz-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "GS Caltex",
+        "url": "https://fortune.com/company/gs-caltex/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Suzuki Motor",
+        "url": "https://fortune.com/company/suzuki-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Haier Smart Home",
+        "url": "https://fortune.com/company/qingdao-haier/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "X5 Retail Group",
+        "url": "https://fortune.com/company/x5-retail-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "La Poste",
+        "url": "https://fortune.com/company/la-poste/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hangzhou Iron and Steel Group",
+        "url": "https://fortune.com/company/hangzhou-iron-and-steel-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shanghai Pharmaceuticals Holding",
+        "url": "https://fortune.com/company/shanghai-pharmaceuticals-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shandong Hi-Speed Group",
+        "url": "https://fortune.com/company/shandong-hi-speed-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Honeywell International",
+        "url": "https://fortune.com/company/honeywell-international/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Guangdong Guangxin Holdings",
+        "url": "https://fortune.com/company/guangdong-guangxin-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "S.F. Holding",
+        "url": "https://fortune.com/company/sf-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mitsubishi Electric",
+        "url": "https://fortune.com/company/mitsubishi-electric/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Guangzhou Pharmaceutical Holdings",
+        "url": "https://fortune.com/company/guangzhou-pharmaceutical-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Datang",
+        "url": "https://fortune.com/company/china-datang/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mapfre Group",
+        "url": "https://fortune.com/company/mapfre-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CFE",
+        "url": "https://fortune.com/company/cfe/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jardine Matheson",
+        "url": "https://fortune.com/company/jardine-matheson/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mondelez International",
+        "url": "https://fortune.com/company/mondelez-international/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Daiwa House Industry",
+        "url": "https://fortune.com/company/daiwa-house-industry/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Starbucks",
+        "url": "https://fortune.com/company/starbucks/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Olam Group",
+        "url": "https://fortune.com/company/olam-international/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Qualcomm",
+        "url": "https://fortune.com/company/qualcomm/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Broadcom",
+        "url": "https://fortune.com/company/broadcom/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "JFE Holdings",
+        "url": "https://fortune.com/company/jfe-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hailiang Group",
+        "url": "https://fortune.com/company/hailiang-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "US Foods Holding",
+        "url": "https://fortune.com/company/us-foods-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ELO Group",
+        "url": "https://fortune.com/company/auchan-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Migros Group",
+        "url": "https://fortune.com/company/migros-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mercadona",
+        "url": "https://fortune.com/company/mercadona/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "D.R. Horton",
+        "url": "https://fortune.com/company/d-r-horton/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China Electronics",
+        "url": "https://fortune.com/company/china-electronics/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shudao Investment Group",
+        "url": "https://fortune.com/company/shudao-investment-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China National Coal Group",
+        "url": "https://fortune.com/company/china-national-coal-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "TongLing Nonferrous Metals Group",
+        "url": "https://fortune.com/company/tongling-nonferrous-metals-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CK Hutchison Holdings",
+        "url": "https://fortune.com/company/ck-hutchison-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Philip Morris International",
+        "url": "https://fortune.com/company/philip-morris-international/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Paccar",
+        "url": "https://fortune.com/company/paccar/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "PDD Holdings",
+        "url": "https://fortune.com/company/pinduoduo/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CRH",
+        "url": "https://fortune.com/company/crh/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Quanta Computer",
+        "url": "https://fortune.com/company/quanta-computer/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Salesforce",
+        "url": "https://fortune.com/company/salesforce-com/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "AIA Group",
+        "url": "https://fortune.com/company/aia-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Nucor",
+        "url": "https://fortune.com/company/nucor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jabil",
+        "url": "https://fortune.com/company/jabil-circuit/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "National Australia Bank",
+        "url": "https://fortune.com/company/national-australia-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "SAP SE",
+        "url": "https://fortune.com/company/sap/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CRRC Group",
+        "url": "https://fortune.com/company/crrc-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shanghai Delong Steel Group",
+        "url": "https://fortune.com/company/shanghai-delong-steel-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Lennar",
+        "url": "https://fortune.com/company/lennar/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Sompo Holdings",
+        "url": "https://fortune.com/company/sompo-holdings/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Eli Lilly",
+        "url": "https://fortune.com/company/eli-lilly/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Korea Gas",
+        "url": "https://fortune.com/company/korea-gas/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Molina Healthcare",
+        "url": "https://fortune.com/company/molina-healthcare/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Beijing Jianlong Heavy Industry Group",
+        "url": "https://fortune.com/company/beijing-jianlong-heavy-industry-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Cummins",
+        "url": "https://fortune.com/company/cummins/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shaanxi Construction Engineering Holding",
+        "url": "https://fortune.com/company/shaanxi-construction-engineering-holding/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Rabobank Group",
+        "url": "https://fortune.com/company/rabobank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Aisin",
+        "url": "https://fortune.com/company/aisin-seiki/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Rajesh Exports",
+        "url": "https://fortune.com/company/rajesh-exports/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "British American Tobacco",
+        "url": "https://fortune.com/company/british-american-tobacco/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "CPC",
+        "url": "https://fortune.com/company/cpc/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Bank of New York Mellon",
+        "url": "https://fortune.com/company/bank-of-new-york-mellon-corp/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Tongwei Group",
+        "url": "https://fortune.com/company/tongwei-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Netflix",
+        "url": "https://fortune.com/company/netflix/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Novo Nordisk",
+        "url": "https://fortune.com/company/novo-nordisk/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shougang Group",
+        "url": "https://fortune.com/company/shougang-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Shanxi Coking Coal Group",
+        "url": "https://fortune.com/company/shanxi-coking-coal-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Guangxi Investment Group",
+        "url": "https://fortune.com/company/guangxi-investment-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "VTB Bank",
+        "url": "https://fortune.com/company/vtb-bank/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mazda Motor",
+        "url": "https://fortune.com/company/mazda-motor/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Hunan Iron & Steel Group",
+        "url": "https://fortune.com/company/hunan-iron-amp-steel-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Power Corp. of Canada",
+        "url": "https://fortune.com/company/power-corp-of-canada/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Truist Financial",
+        "url": "https://fortune.com/company/bbt-corp/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Siemens Energy",
+        "url": "https://fortune.com/company/siemens-energy/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Schlumberger",
+        "url": "https://fortune.com/company/schlumberger/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Ecopetrol",
+        "url": "https://fortune.com/company/ecopetrol/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Arrow Electronics",
+        "url": "https://fortune.com/company/arrow-electronics/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Jerónimo Martins",
+        "url": "https://fortune.com/company/jeronimo-martins/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "China National Aviation Fuel Group",
+        "url": "https://fortune.com/company/china-national-aviation-fuel-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Commonwealth Bank of Australia",
+        "url": "https://fortune.com/company/commonwealth-bank-of-australia/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Centrica",
+        "url": "https://fortune.com/company/centrica/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Linde",
+        "url": "https://fortune.com/company/linde/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Heineken",
+        "url": "https://fortune.com/company/heineken/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Luxshare Precision Industry",
+        "url": "https://fortune.com/company/luxshare-precision-industry/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "3M",
+        "url": "https://fortune.com/company/3m/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Visa",
+        "url": "https://fortune.com/company/visa/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Apollo Global Management",
+        "url": "https://fortune.com/company/apollo-global-management/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Emirates Group",
+        "url": "https://fortune.com/company/emirates-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Vibra Energia",
+        "url": "https://fortune.com/company/vibra-energia/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Metro",
+        "url": "https://fortune.com/company/metro/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Subaru",
+        "url": "https://fortune.com/company/subaru/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Air France-KLM Group",
+        "url": "https://fortune.com/company/air-france-klm-group/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Enbridge",
+        "url": "https://fortune.com/company/enbridge/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "ABB",
+        "url": "https://fortune.com/company/abb/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Mitsubishi Heavy Industries",
+        "url": "https://fortune.com/company/mitsubishi-heavy-industries/",
+        "offices": "Informação não encontrada"
+    },
+    {
+        "company": "Samsung C&T",
+        "url": "https://fortune.com/company/samsung-ct/",
+        "offices": "Informação não encontrada"
+    }
+]
